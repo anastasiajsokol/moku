@@ -1,2 +1,2 @@
-# moki
-Website for the hypothetical future food cart "moki pona"
+# moku pona
+Website for the hypothetical future food cart "moku pona"!
